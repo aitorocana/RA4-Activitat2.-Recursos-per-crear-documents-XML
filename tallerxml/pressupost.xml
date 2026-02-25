@@ -1,0 +1,47 @@
+<pressupostos>
+    <ordenador numero ="1">
+        <components>
+            <placa_base nom=" ASUS PRIME B550M-A/CSM">
+                <preu> 93,99€</preu>
+            </placa_base>
+            <processador nom="AMD Ryzen 7 5800X 3.8GHz">
+                <preu> 188,95€</preu>
+            </processador>
+            <RAM nom="Memoria RAM Kingston FURY Beast DDR4 3200 MHz 32 GB 2x16GB CL16">
+                <preu> 279€</preu>
+            </RAM>
+            <disc_dur nom="Kioxia Exceria Plus G3 1TB Disco SSD 5000MB/S NVMe PCIe 4.0 M.2 Gen4">
+                <preu>166,90€</preu>
+            </disc_dur>
+            <targeta_grafica nom="GeForce RTX 5060 8GB">
+                <preu> 339,90€</preu>
+            </targeta_grafica>
+            <targeta_so nom="Creative Sound Blaster Audigy Fx V2 Tarjeta de Sonido Interna PCI-e">
+                <preu> 46,98€</preu>
+            </targeta_so>
+        </components>
+    </ordenador>
+    <ordenador numero ="2">
+        <components>
+            <placa_base nom="MSI PRO B650-A WIFI AMD B650 Socket AM5 ATX con WiFi y HDMI">
+                <preu>260€</preu>
+            </placa_base>
+            <processador nom="AMD Ryzen 7 7700X 4.5 GHz">
+                <preu> 222,90€</preu>
+            </processador>
+            <RAM nom="Acer Predator Vesta II RGB DDR5 6000MHz 32GB 2x16GB CL32">
+                <preu> 547,27€</preu>
+            </RAM>
+            <disc_dur nom="WD_BLACK SN7100 POWERED BY SANDISK NVMe SSD 2TB 7250 MB/S PCIe 4.0 M.2 Gen4">
+                <preu>269,95€</preu>
+            </disc_dur>
+            <targeta_grafica nom="RTX 5070 12GB GDDR7 DLSS4">
+                <preu>689,91€</preu>
+            </targeta_grafica>
+            <targeta_so nom="Creative Sound Blaster Audigy Fx V2 Tarjeta de Sonido Interna PCI-e">
+                <preu>46,98€</preu>
+            </targeta_so>
+        </components>
+    </ordenador>
+
+</pressupostos>

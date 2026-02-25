@@ -1,0 +1,53 @@
+<BBVA>
+    <Resultats>
+        <Jornada numero="1">
+            <Partit estat="finalitzat">R.Societat 2-0 Getafe</Partit>
+            <Partit estat="finalitzat">Valencia 1-0 Màlaga</Partit>
+            <Partit estat="finalitzat">Osasuna 1-2 Granada</Partit>
+            <Partit estat="finalitzat">Sevilla 1-3 Atlético</Partit>
+            <Partit estat="finalitzat">Celta 2-2 Espanyol</Partit>
+            <Partit estat="finalitzat">Valladolid 1-2 Athletic</Partit>
+            <Partit estat="finalitzat">FC Barcelona 7-0 Levante</Partit>
+            <Partit estat="finalitzat">R.Madrid 2-1 Betis</Partit>
+            <Partit estat="finalitzat">Rayo 3-0 Elche</Partit>
+            <Partit estat="finalitzat">Almeria 2-3 Villareal</Partit>
+            
+        </Jornada>
+        <Jornada numero="2">
+            <Partit estat="finalitzat">Getafe 2-2 Almeria</Partit>
+            <Partit estat="finalitzat">Elche 1-1 R.Sociedad</Partit>
+            <Partit estat="finalitzat">Villareal 2-1 Valladolid</Partit>
+            <Partit estat="finalitzat">Málaga 0-1 FC Barcelona</Partit>
+            <Partit estat="finalitzat">Betis 1-2 Celta</Partit>
+            <Partit estat="finalitzat">Athletic 2-0 Osasuna</Partit>
+            <Partit estat="finalitzat">Espanyol 3-1 Valencia</Partit>
+            <Partit estat="finalitzat">Atlético 5-0 Rayo</Partit>
+            <Partit estat="finalitzat">Levante 0-0 Sevilla</Partit>
+            <Partit estat="finalitzat">Almeria 2-3 Villareal</Partit>
+        </Jornada>
+        <Jornada numero="3">
+            <Partit estat="finalitzat">Rayo 1-2 Levante</Partit>
+            <Partit estat="finalitzat">Celta 1-1 Granada</Partit>
+            <Partit estat="finalitzat">Osasuna 0-3 Villareal</Partit>
+            <Partit estat="finalitzat">Espanyol 0-0 Betis</Partit>
+            <Partit estat="finalitzat">Valencia 2-3 FC Barcelona</Partit>
+            <Partit estat="finalitzat">Almeria 2-2 Elche</Partit>
+            <Partit estat="finalitzat">Valladolid 1-0 Getafe</Partit>
+            <Partit estat="finalitzat">R.Madrid 3-1 Athletic</Partit>
+            <Partit estat="finalitzat">R.Sociedad 1-2 Atlético</Partit>
+            <Partit estat="finalitzat">Sevilla 2-2 Málaga</Partit>
+        </Jornada>
+        <Jornada numero="4">
+            <Partit estat="finalitzat">Athlético 4-2 Almería</Partit>
+            <Partit estat="finalitzat">FC Barcelona 3-2 Sevilla</Partit>
+            <Partit estat="finalitzat">Granda 0-1 Espanyol</Partit>
+            <Partit estat="finalitzat">Málaga 5-0 Rayo</Partit>
+            <Partit estat="finalitzat">Elche 0-0 Valladolid</Partit>
+            <Partit estat="finalitzat">Levante 0-0 R.Sociedad</Partit>
+            <Partit estat="finalitzat">Villarreal 2-2 R.Madrid</Partit>
+            <Partit estat="finalitzat">Getafe 2-1 Osasuna</Partit>
+            <Partit estat="finalitzat">Betis 3-1 Valencia</Partit>
+            <Partit estat="finalitzat">Athlétic 3-2 Celta</Partit>
+        </Jornada>
+    </Resultats>
+</BBVA>
