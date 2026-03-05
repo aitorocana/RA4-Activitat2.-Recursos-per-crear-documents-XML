@@ -1,0 +1,54 @@
+{
+    "models": {
+        "Telèfons_mòbils": [
+            {
+                "Nom":"iPhone 17",
+                "Pantalla": "6.1 OLED",
+                "Freqüència_pantalla":"120 Hz",
+                "Processador":"Apple A19",
+                "RAM":"8 GB",
+                "Emmagatzematge(GB)":["128","256","512"],
+                "Càmera_principal":"48 MP",
+                "Càmera_frontal":"12 MP",
+                "Bateria":"~4480 mAh",
+                "Sistema operatiu":"iOS",
+                "Any":"2025",
+                "Preu_aproximat":"899-999 €"
+
+            },
+            {
+                "Nom":"Samsung Galaxy S25",
+                "Pantalla": "6.2 AMOLED",
+                "Freqüència_pantalla":"120 Hz",
+                "Processador":"Snapdragon 8 Gen 4 / Elite",
+                "RAM":"12 GB",
+                "Emmagatzematge":["128","256","512"],
+                "Càmera_principal":"50 MP + teleobjectiu",
+                "Càmera_frontal":"12 MP",
+                "Bateria":"~4000 mAh",
+                "Sistema operatiu":"Android (One UI)",
+                "Any":"2025",
+                "Preu_aproximat":"850-900 €"
+
+            },
+            {
+
+                "Nom":"Pixel 10",
+                "Pantalla": "6.3 OLED",
+                "Freqüència_pantalla":"120 Hz",
+                "Processador":"Google Tensor G4",
+                "RAM":"12 GB",
+                "Emmagatzematge":["128","256","512"],
+                "Càmera_principal":"50 MP + ultra gran angular",
+                "Càmera_frontal":"10.5 MP",
+                "Bateria":"~4700 mAh",
+                "Sistema operatiu":"Android pur",
+                "Any":"2025",
+                "Preu_aproximat":"699-750 €"
+
+            }
+
+        ]
+
+    }
+}
