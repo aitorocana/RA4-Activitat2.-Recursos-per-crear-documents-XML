@@ -1,0 +1,111 @@
+{
+
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://example.com/product.schema.json",
+    "title": "Partit",
+    "description": "Partits del torneig de FIFA e-games",
+    "type": "object",
+    "required": ["Guanyador", "Partit"],
+    "properties":{
+        "Guanyador": {
+            "type": "string",
+            "description": "Nom del equip guanyador del torneig"
+        },
+        "Partit":{
+            "type":"array",
+            "description":"Equips",
+            "items":{
+                "type":"object",
+                "required":["nom-equip","nick-players"],
+                "properties":{
+                    "nom-equip":{
+                        "type":"string",
+                        "description":"nom del equip"
+                    },
+                    "nick-players":{
+                        "type":"array",
+                        "description":"nicks dels jugadors",
+                        "minItems":1,
+                        "maxItems":2,
+                        "uniqueItems":true,
+                        "items":{
+                            "type":"string"
+                        }
+                    },
+                    "gols":{
+                        "type":"array",
+                        "required":["marcador","minut","jugador"],
+                        "properties":{
+                            "marcador":{
+                                "type":"string",
+                                "pattern":"^[0-9]+-[0-9]+$"
+                            },
+                            "minut":{
+                                "type":"string"  
+                            },
+                            "jugador":{
+                                "type":"string"
+                                
+                            },
+                            "penal":{
+                                "type":"boolean"
+                            }
+                            
+                        }
+
+                    },
+                    "targetes":{
+                        "type":"array",
+                        "required":["tipus","minut","jugador"],
+                        "properties":{
+                            "tipus":{
+                                "type":"string",
+                                "enum":["groga","roja"]
+                            },
+                            "minut":{
+                                "type":"string"
+
+                            },
+                            "jugador":{
+                                "type":"string"
+
+                            }
+                        }
+                    }
+
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
